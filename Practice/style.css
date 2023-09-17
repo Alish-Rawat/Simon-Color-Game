@@ -1,0 +1,17 @@
+#container {
+  width: 180px;
+  height: 500px;
+  border: 2px solid black;
+  font-size: 25px;
+  overflow-wrap: break-word;
+  text-align: center;
+  background-color: black;
+  color: greenyellow;
+}
+#smallContain {
+  padding: 15px;
+}
+.num {
+
+  font-family: fangsong;
+}
