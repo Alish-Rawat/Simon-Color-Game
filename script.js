@@ -67,7 +67,7 @@ function z() {
     container.style.backgroundColor = "red";
     restart();
     // function play() {
-    var audio = new Audio("audio/new1.mp3");
+    var audio = new Audio("audio/wrong-buzzer-6268.mp3");
     audio.play();
     // }
     // play();
@@ -79,7 +79,7 @@ function restart() {
   myInput = "";
   n = 0;
   clearInterval(set);
-  small.innerHTML = containe2.innerHTML = containe1.innerHTML = "ABE LAUDE";
+  small.innerHTML = containe2.innerHTML = containe1.innerHTML = "TRY AGAIN :D";
   containe1.style.fontSize = "10px";
   containe2.style.fontSize = "10px";
   audi.pause();
